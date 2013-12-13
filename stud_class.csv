@@ -1,0 +1,51 @@
+sid,cname,grade
+1,"Algebra 1",B
+1,"Drama 1",A
+1,"English 9",A
+1,Geography,B
+1,Geology,B
+2,"English 9",A
+2,"French 1",B
+2,Geography,B
+2,Geology,B
+2,Geometry,B
+3,"Algebra 2",B
+3,Computer,B
+3,"English 9",B
+3,Geography,B
+3,Geology,A
+4,"Algebra 2",B
+4,"English 9",B
+4,Geography,A
+4,Geology,B
+4,Music,B
+5,"English 9",B
+5,Geography,C
+5,Geology,B
+5,Geometry,C
+5,"Spanish 1",A
+6,"Algebra 2",B
+6,"English 9",B
+6,"French 1",B
+6,Geography,B
+6,Geology,B
+7,"Algebra 2",A
+7,"English 9",B
+7,Geography,A
+7,Geology,B
+7,Music,A
+8,"English 9",A
+8,Geography,B
+8,Geology,A
+8,Geometry,B
+8,Music,B
+9,"Algebra 2",B
+9,"Drama 1",C
+9,"English 9",B
+9,Geography,B
+9,Geology,C
+10,"Algebra 2",A
+10,"English 9",B
+10,Geography,B
+10,Geology,B
+10,Music,A

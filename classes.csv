@@ -1,0 +1,49 @@
+cname,ctype,units,instructor,dependency
+"Advanced Biology","Advanced Science",4,"Anna Hall",Biology
+"Advanced Calculus","Advanced Math",4,"Angel Ascensio",Trigonometry
+"Advanced Chemistry","Advanced Science",4,"Betsy Burns",Biology
+"Advanced Economics","Advanced History",4,"Kendra Haney","US History"
+"Advanced Geography","Advanced History",4,"Cary L Bohanan",NULL
+"Advanced Physics","Advanced Science",4,"Betsy Burns",Biology
+"Advanced Statistics","Advanced Math",4,"Angel Ascensio","Algebra 2"
+"Advanced Trigonometry","Advanced Math",4,"Angel Ascensio","Algebra 2"
+"Advanced US History","Advanced History",4,"Kendra Haney","World History"
+"Advanced World History","Advanced History",4,"Cary L Bohanan",Geography
+"Algebra 1",Math,3,"Heather Ureksoy",Pre-Algebra
+"Algebra 2",Math,3,"Heather Ureksoy",Geometry
+Biology,Science,3,"Betsy Burns",Geology
+Calculus,Math,3,"Angel Ascensio",Trigonometry
+Chemistry,Science,3,"Anna Hall",Biology
+Choir,Elective,3,"James Farm",Choir
+Composition,"Advanced English",4,"Elena Lim","English 10"
+Computer,Elective,3,"Kendra Haney",Computer
+"Drama 1",Elective,3,"Kendra Eugene",NULL
+"Drama 2",Elective,3,"Kendra Eugene","Drama 1"
+"Drama 3",Elective,3,"Kendra Eugene","Drama 2"
+Economics,History,3,"Kendra Haney","US History"
+"English 10",English,3,"Elena Lim","English 9"
+"English 11",English,3,"Jerald W Hunt","English 10"
+"English 12",English,3,"Elena Lim","English 11"
+"English 9",English,3,"Jerald W Hunt",NULL
+"French 1",Elective,3,"Freda Harrill",NULL
+"French 2",Elective,3,"Freda Harrill","French 1"
+"French 3",Elective,3,"Freda Harrill","French 2"
+Geography,History,3,"Cary L Bohanan",NULL
+Geology,Science,3,"Betsy Burns",NULL
+Geometry,Math,3,"Angel Ascensio","Algebra 1"
+"German 1",Elective,3,"Freda Harrill",NULL
+"German 2",Elective,3,"Freda Harrill","German 1"
+"German 3",Elective,3,"Freda Harrill","German 2"
+Literature,"Advanced English",4,"Jerald W Hunt",Composition
+Music,Elective,3,"Kendra Eugene",Music
+Pre-Algebra,Math,3,"Angel Ascensio",NULL
+"Sign Language 1",Elective,3,"James Farm",NULL
+"Sign Language 2",Elective,3,"James Farm","Sign Language 1"
+"Spanish 1",Elective,3,"James Farm",NULL
+"Spanish 2",Elective,3,"James Farm","Spanish 1"
+"Spanish 3",Elective,3,"James Farm","Spanish 2"
+"Spanish 4",Elective,3,"James Farm","Spanish 3"
+Statistics,Math,3,"Heather Ureksoy","Algebra 2"
+Trigonometry,Math,3,"Angel Ascensio","Algebra 2"
+"US History",History,3,"Cary L Bohanan","World History"
+"World History",History,3,"Kendra Haney",Geography

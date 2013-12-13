@@ -1,0 +1,41 @@
+sid,fname,lname,middle_initial,mother,dob,city,state,country,street,zip,phone,gender,joining_date,grad_date,gpa,did
+1,Raul,Speaks,B,Benton,1992-05-13,"North Billerica",MA,US,"2008 Christie Way",1862,9788469885,male,NULL,NULL,3.4,1
+2,Ingrid,Maas,S,Reynolds,1991-05-17,"North Key Largo",FL,US,"1045 Tyler Avenue",33038,3053673160,female,NULL,NULL,3.2,2
+3,Daniel,Rau,L,Garcia,1990-01-12,"Santa Fe Springs",CA,US,"2238 Locust Court",90670,5624412295,male,NULL,NULL,3.2,3
+4,Keith,Palmer,D,Rudd,1992-03-14,Lawton,OK,US,"3198 Simpson Square",73501,5805919796,male,NULL,NULL,3.2,4
+5,Douglas,Schull,L,Simpson,1990-02-09,Sidonia,TN,US,"2973 Pooz Street",38255,7319736321,male,NULL,NULL,2.8,1
+6,James,McCoy,A,Trevino,1991-04-14,Winthrop,MA,US,"2170 Hinkle Lake Road",2152,6175396317,male,NULL,NULL,3,2
+7,Marvin,Byers,M,Doyle,1994-07-24,Causeyville,MS,US,"2393 Walnut Street",39301,6016447499,male,NULL,NULL,3.6,3
+8,Tammy,Duncan,L,Green,1994-04-28,"Wood Dale",IL,US,"540 Fraggle Drive",60191,6303909302,female,NULL,NULL,3.4,4
+9,Tatiana,Williams,C,Israel,1991-09-18,Orlando,FL,US,"466 Barnes Street",32811,4073134800,female,NULL,NULL,2.6,1
+10,Sylvia,Demarco,C,Harris,1994-01-07,Kalamazoo,MI,US,"4679 Shingleton Road",49007,2693375583,female,NULL,NULL,3.4,2
+11,Andrea,Knott,C,Martin,1993-11-22,Philadelphia,PA,US,"1021 Deercove Drive",19121,2152320630,female,NULL,NULL,NULL,3
+12,Mark,Trinidad,A,Garvin,1992-11-27,"New York",NY,US,"4649 Small Street",10016,2128506210,male,NULL,NULL,NULL,4
+13,Angie,Gerardi,T,Lyons,1990-10-15,"Baton Rouge",LA,US,"1180 Washburn Street",70806,2253177491,female,NULL,NULL,NULL,1
+14,Charles,Miller,M,Suarez,1989-03-26,Houston,TX,US,"1809 Patterson Street",77063,7132826921,male,NULL,NULL,NULL,2
+15,Marvin,Johnston,J,Pompey,1990-03-28,Reno,NV,US,"647 Sheila Lane",89501,7753703003,male,NULL,NULL,NULL,3
+16,Deborah,Wakefield,G,Hunt,1989-10-25,Irvine,CA,US,"610 Felosa Drive",92614,3239859794,female,NULL,NULL,NULL,4
+17,Miranda,Gagne,R,Shepard,1990-07-24,Lancaster,TX,US,"3049 Hope Street",75146,9722276771,female,NULL,NULL,NULL,1
+18,Fredric,Torres,G,Adkins,1993-11-25,Worthington,OH,US,"4179 Palmer Road",43085,6146735425,male,NULL,NULL,NULL,2
+19,Susan,Sudduth,G,Linzy,1991-12-07,"St Elizabeth",MO,US,"4583 Oak Ridge Drive",65559,5734938776,female,NULL,NULL,NULL,3
+20,Antonio,Elliston,R,Frazier,1993-01-29,"Saint Louis",MO,US,"2858 Irving Place",63101,6363366061,male,NULL,NULL,NULL,4
+21,August,Ragusa,D,Saad,1991-08-15,Manchester,NH,US,"883 Elliott Street",3101,6036398583,male,NULL,NULL,NULL,1
+22,Dean,Robles,B,Brantley,1992-12-12,Elkhart,IN,US,"4000 Sand Fork Road",46516,5746124719,male,NULL,NULL,NULL,2
+23,Timothy,Allums,L,Morales,1992-01-03,Lansing,MI,US,"36 Elk Avenue",48933,5174640286,male,NULL,NULL,NULL,3
+24,Salvador,Greene,L,Williams,1992-04-30,Burbank,CA,US,"3766 Quiet Valley Lane",91502,8189771736,male,NULL,NULL,NULL,4
+25,Hilda,Hinkel,M,Zeman,1993-06-01,Arlington,VA,US,"1110 Forest Drive",22204,7039207446,female,NULL,NULL,NULL,1
+26,David,Phillips,D,Jones,1993-09-26,"Okla City",OK,US,"479 Benson Park Drive",73107,4055035280,male,NULL,NULL,NULL,2
+27,Kristi,Elliot,J,Brower,1992-03-02,Tulsa,OK,US,"1366 Bridge Street",74120,9188209140,female,NULL,NULL,NULL,3
+28,Wesley,Mattes,P,Sledge,1993-11-08,Memphis,TN,US,"2654 Point Drive",38118,9014926784,male,NULL,NULL,NULL,4
+29,Juanita,Uselton,R,Garcia,1991-11-29,"La Mesa",CA,US,"2944 Ashcraft Court",92041,6194654821,female,NULL,NULL,NULL,1
+30,Morris,Harris,A,Adler,1990-03-10,Springdale,AR,US,"2975 Cambridge Court",72764,4798725145,male,NULL,NULL,NULL,2
+31,Bruce,Rich,B,Davis,1989-11-03,Moundville,AL,US,"3180 Brookside Drive",35401,2053712428,male,NULL,NULL,NULL,3
+32,Irene,Hudson,D,Taft,1989-04-25,Lafayette,LA,US,"1389 Bridge Avenue",70501,3377186144,female,NULL,NULL,NULL,4
+33,Edward,Trammel,E,Rumley,1989-10-04,Whippany,NJ,US,"614 Hilltop Haven Drive",7981,9737815641,male,NULL,NULL,NULL,1
+34,Susan,Nichols,J,Via,1990-02-10,Mesa,AZ,US,"2030 Elmwood Avenue",85205,4809859289,female,NULL,NULL,NULL,2
+35,Gay,Lucero,J,Ward,1992-05-15,Stlouis,MO,US,"933 Bruce Street",63101,3143251564,female,NULL,NULL,NULL,3
+36,Victoria,Edwards,G,Lam,1993-09-13,"New York",NY,US,"799 Fieldcrest Road",10013,6318568106,female,NULL,NULL,NULL,4
+37,William,Morgan,J,Cruz,1992-03-24,Alhambra,CA,US,"4572 Edsel Road",91801,8184055564,male,NULL,NULL,NULL,1
+38,Warren,Herrera,V,Terrell,1993-10-18,"Fort Myers",FL,US,"4352 Red Bud Lane",33901,8632194208,male,NULL,NULL,NULL,2
+39,Betty,Guillen,R,Tillis,1989-08-01,"Oklahoma City",OK,US,"1309 Dovetail Estates",73109,5809848665,female,NULL,NULL,NULL,3
+40,Nadia,Collier,J,Settle,1992-09-13,"Big Piney",WY,US,"1323 Arbor Court",83113,3072768840,female,NULL,NULL,NULL,4
