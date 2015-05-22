@@ -38,6 +38,8 @@ def func2():
         cursor2.execute(sql2)
         print "------------"
     conn.commit()
-    print "All done!"
+    
+    cursor.close()
     cursor1.close()
+    cursor2.close()
     conn.close ()
